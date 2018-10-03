@@ -11,4 +11,5 @@ import Foundation
 struct Model {
   var mode: String
   var next: Int
+    var one: Int
 }

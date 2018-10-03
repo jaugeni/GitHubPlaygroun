@@ -12,7 +12,7 @@
 		A307DF4F21652EC800369EFF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A307DF4D21652EC800369EFF /* Main.storyboard */; };
 		A307DF5121652ECA00369EFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A307DF5021652ECA00369EFF /* Assets.xcassets */; };
 		A307DF5421652ECA00369EFF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A307DF5221652ECA00369EFF /* LaunchScreen.storyboard */; };
-		A307DF5C216532BB00369EFF /* Mpdel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A307DF5B216532BA00369EFF /* Mpdel.swift */; };
+		A307DF5C216532BB00369EFF /* Modeles.swift in Sources */ = {isa = PBXBuildFile; fileRef = A307DF5B216532BA00369EFF /* Modeles.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		A307DF5021652ECA00369EFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A307DF5321652ECA00369EFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A307DF5521652ECA00369EFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A307DF5B216532BA00369EFF /* Mpdel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mpdel.swift; sourceTree = "<group>"; };
+		A307DF5B216532BA00369EFF /* Modeles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modeles.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 				A307DF5021652ECA00369EFF /* Assets.xcassets */,
 				A307DF5221652ECA00369EFF /* LaunchScreen.storyboard */,
 				A307DF5521652ECA00369EFF /* Info.plist */,
-				A307DF5B216532BA00369EFF /* Mpdel.swift */,
+				A307DF5B216532BA00369EFF /* Modeles.swift */,
 			);
 			path = GitHubPlaygroun;
 			sourceTree = "<group>";
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A307DF5C216532BB00369EFF /* Mpdel.swift in Sources */,
+				A307DF5C216532BB00369EFF /* Modeles.swift in Sources */,
 				A307DF4C21652EC800369EFF /* ViewController.swift in Sources */,
 				A307DF4A21652EC800369EFF /* AppDelegate.swift in Sources */,
 			);

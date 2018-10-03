@@ -13,6 +13,10 @@ class ViewController: UIViewController {
   override func viewDidLoad() {
     super.viewDidLoad()
     // Do any additional setup after loading the view, typically from a nib.
+    
+    var model = Modeles(mode: "on", next: 12, one: 56)
+
+    print(model)
   }
 
     
@@ -21,6 +25,7 @@ class ViewController: UIViewController {
     var oneMore = "Nike"
   
   let createAnother = "Another"
+    
 
 }
 

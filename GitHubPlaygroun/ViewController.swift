@@ -16,7 +16,9 @@ class ViewController: UIViewController {
   }
 
     
-    var letsDoIT = "nike"
+    var letsDoIT = "Nike"
+  
+  let createAnother = "Another"
 
 }
 
